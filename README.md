@@ -128,7 +128,7 @@ Note: Please follow the above steps to install conda env
 
 
 Zenodo link:https://zenodo.org/record/7320334#.Y5pb-nbMJPY   
-Github link:https://github.com/ccsc-tools/
+Github link:https://github.com/ccsc-tools/  
 Cuda Installation Package: You may download and install Cuda v 10.1 from https://developer.nvidia.com/cuda-10.1-download-archive-base
 
 Python version: 3.8.6
