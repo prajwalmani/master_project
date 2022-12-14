@@ -61,7 +61,7 @@ Note: Please follow the above steps to install conda env
 Zenodo link:https://zenodo.org/record/5634114#.Y5pSYnbMJPZ   
 Github link:https://github.com/ccsc-tools/FlareML
 
-Python version: 3.8.6  
+Python version: 3.8.6   
 The requirements are already setup for you using conda enviornment.yml 
 
 Note: Please follow the above steps to install conda env 
@@ -70,7 +70,7 @@ Note: Please follow the above steps to install conda env
 Zenodo link:https://zenodo.org/record/7415731#.Y5pXo3bMJPZ   
 Github link:https://github.com/ccsc-tools/RNN-CME-prediction
 
-Python version: 3.9.7 
+Python version: 3.9.7   
 The requirements are already setup for you please use the requirements.txt
 
 Note: Please follow the above steps to install from requirements.txt
@@ -79,7 +79,7 @@ Note: Please follow the above steps to install from requirements.txt
 Zenodo link:https://zenodo.org/record/5739321#.Y5pYtXbMJPZ  
 Github link:https://github.com/ccsc-tools/LSTM-flare-prediction
 
-Python version: 3.8.6
+Python version: 3.8.6  
 The requirements are already setup for you using conda enviornment.yml 
 
 Note: Please follow the above steps to install conda env 
@@ -88,7 +88,7 @@ Note: Please follow the above steps to install conda env
 Zenodo link:https://zenodo.org/record/6757855#.Y5pZ4nbMJPY  
 Github link:https://github.com/ccsc-tools/SEP-prediction
 
-Python version: 3.9.7 
+Python version: 3.9.7   
 The requirements are already setup for you using conda enviornment.yml 
 
 Note: Please follow the above steps to install conda env 
@@ -97,7 +97,7 @@ Note: Please follow the above steps to install conda env
 Zenodo link:https://zenodo.org/record/6757855#.Y5pZ4nbMJPY  
 Github link:https://github.com/ccsc-tools/Dst-prediction 
 
-Python version: 3.9.7 
+Python version: 3.9.7   
 The requirements are already setup for you using conda enviornment.yml 
 
 Note: Please follow the above steps to install conda env 
@@ -106,7 +106,7 @@ Note: Please follow the above steps to install conda env
 Zenodo link:https://zenodo.org/record/7402229#.Y5pa53bMJPZ    
 Github link:https://github.com/ccsc-tools/TSInet-irradiance-reconstruction
 
-Python version: 3.8.6
+Python version: 3.8.6  
 The requirements are already setup for you using conda enviornment.yml 
 
 Note: Please follow the above steps to install conda env 
@@ -117,7 +117,7 @@ Zenodo link:https://zenodo.org/record/7120692#.Y5pbk3bMJPY
 Github link:https://github.com/ccsc-tools/Kp-prediction
 
 
-Python version: 3.9.7
+Python version: 3.9.7  
 The requirements are already setup for you using conda enviornment.yml 
 
 Note: Please follow the above steps to install conda env 
@@ -131,7 +131,7 @@ Zenodo link:https://zenodo.org/record/7320334#.Y5pb-nbMJPY
 Github link:https://github.com/ccsc-tools/  
 Cuda Installation Package: You may download and install Cuda v 10.1 from https://developer.nvidia.com/cuda-10.1-download-archive-base
 
-Python version: 3.8.6
+Python version: 3.8.6  
 The requirements are already setup for you using conda enviornment.yml 
 
 Note: Please follow the above steps to install conda env 
