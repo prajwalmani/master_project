@@ -1,7 +1,7 @@
 # Master Project
-Name:Prajwal Mani  
-Email Id:pbm6@njit.edu  
-Subject Code:CS700B  
+Name: Prajwal Mani  
+Email Id: pbm6@njit.edu  
+Subject Code: CS700B  
 Professor: Dr. Jason T. L. Wang  
 
 ### This readme file talks about how to run the ccsc tools 
